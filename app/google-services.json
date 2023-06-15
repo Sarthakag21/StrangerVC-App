@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "652932903733",
+    "project_id": "strangersvc",
+    "storage_bucket": "strangersvc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652932903733:android:3984b2b5fb080af6da127c",
+        "android_client_info": {
+          "package_name": "com.appsians.strangers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652932903733-5f8ap5bmf9rsn25ggvtsben2lhi37ufh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsians.strangers",
+            "certificate_hash": "1adac2d1d8665bbc78b00c90c6c2a56fc8665065"
+          }
+        },
+        {
+          "client_id": "652932903733-7tmprskulc3ugiajlilkm15fj52hu5lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQnafJixG_Q2GrgG9r6LFhvG6-F96_zco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652932903733-7tmprskulc3ugiajlilkm15fj52hu5lv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

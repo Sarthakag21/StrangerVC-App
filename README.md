@@ -6,7 +6,7 @@
 
 Strangers App is an Android application that allows users to engage in random video calling with strangers. It provides a platform for spontaneous and exciting connections, enabling users to have video conversations with people from around the world.
 
-The app utilizes WebRTC (Web Real-Time Communication) technology for seamless peer-to-peer video and audio communication. With its intuitive user interface and robust functionality, Strangers App provides a unique and immersive experience for users to meet and interact with new people through video calls.
+The app utilizes WebRTC (Web Real-Time Communication) technology for seamless peer-to-peer video and audio communication. With its intuitive user interface and robust functionality, the Strangers App provides a unique and immersive experience for users to meet and interact with new people through video calls.
 
 ## Features
 

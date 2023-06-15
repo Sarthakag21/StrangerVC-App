@@ -27,7 +27,7 @@ The app utilizes WebRTC (Web Real-Time Communication) technology for seamless pe
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/strangers-app.git`
+1. Clone the repository: `git clone https://github.com/yourusername/StrangerVC-App.git`
 2. Open the project in Android Studio.
 3. Build and run the app on an Android emulator or physical device.
 
@@ -40,24 +40,4 @@ Note: Make sure you have the latest Android SDK and necessary dependencies insta
 3. Start the app and wait for a random video call request or initiate a video call with a stranger.
 4. Enjoy connecting with strangers and experiencing spontaneous video conversations!
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b my-new-feature`
-3. Make your changes and commit them: `git commit -am 'Add some feature'`
-4. Push the branch: `git push origin my-new-feature`
-5. Submit a pull request.
-
-## License
-
-This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-
-For any questions or inquiries, please reach out to:
-
-Your Name: [questions@mianasad.com]
-
-Project Link: [GitHub Repository](https://github.com/yourusername/strangers-app)
+## Made By - Sarthak Agarwal

@@ -42,7 +42,8 @@ Note: Make sure you have the latest Android SDK and necessary dependencies insta
 
 ## Screenshots
 
-![WhatsApp Image 2023-06-16 at 15 30 19](https://github.com/Sarthakag21/StrangerVC-App/assets/73837874/d945e942-d194-4421-8bc8-a0b4a1b1e9c7)
+![WhatsApp Image 2023-06-16 at 15 30 19](https://github.com/Sarthakag21/StrangerVC-App/assets/73837874/d945e942-d194-4421-8bc8-a0b4a1b1e9c7)  ![WhatsApp Image 2023-06-16 at 15 30 19-2](https://github.com/Sarthakag21/StrangerVC-App/assets/73837874/279a5e42-40c8-4ee1-8f81-ad9a9b49d8aa)
+
 
 
 ## Made By - Sarthak Agarwal

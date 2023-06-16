@@ -40,4 +40,9 @@ Note: Make sure you have the latest Android SDK and necessary dependencies insta
 3. Start the app and wait for a random video call request or initiate a video call with a stranger.
 4. Enjoy connecting with strangers and experiencing spontaneous video conversations!
 
+## Screenshots
+
+![WhatsApp Image 2023-06-16 at 15 30 19](https://github.com/Sarthakag21/StrangerVC-App/assets/73837874/d945e942-d194-4421-8bc8-a0b4a1b1e9c7)
+
+
 ## Made By - Sarthak Agarwal

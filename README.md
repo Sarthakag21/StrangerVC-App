@@ -44,9 +44,16 @@ Note: Make sure you have the latest Android SDK and necessary dependencies insta
 
 
 ## Screenshots
-| Cat pics                            | Dog pics                           |
+|                             |                           |
 | ----------------------------------- | ----------------------------------- |
-| ![WhatsApp Image 2023-06-16 at 15 30 19-2](https://github.com/Sarthakag21/StrangerVC-App/assets/73837874/997f70f1-d07f-43e0-b1af-d315e8caaba7) | ![WhatsApp Image 2023-06-16 at 15 30 19](https://github.com/Sarthakag21/StrangerVC-App/assets/73837874/de738db9-605e-4c3c-b046-69285aa6fc5e) |
+| ![Start](https://github.com/Sarthakag21/StrangerVC-App/assets/73837874/c250ecc2-88bf-4f1f-b60d-9b4e3e451a3a)
+ | ![Home](https://github.com/Sarthakag21/StrangerVC-App/assets/73837874/40fc1206-fa4f-4a34-9de5-86dece70f479)
+ |
+|                            |                            |
+| ----------------------------------- | ----------------------------------- |
+| ![Matching](https://github.com/Sarthakag21/StrangerVC-App/assets/73837874/17d47be7-a0ae-4add-bb6e-62965dbc21a4)
+ | ![VC](https://github.com/Sarthakag21/StrangerVC-App/assets/73837874/de0f63ab-2b05-4e4d-ae3f-023643f1069c)
+ |
 
 
 

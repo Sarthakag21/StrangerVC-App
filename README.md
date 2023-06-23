@@ -41,8 +41,6 @@ Note: Make sure you have the latest Android SDK and necessary dependencies insta
 
 ## Screenshots
 
-
-## Screenshots
 | Starting page                       | Home Page                           |
 | ----------------------------------- | ----------------------------------- |
 | ![Start](https://github.com/Sarthakag21/StrangerVC-App/assets/73837874/003bc682-b059-44c1-8332-380203a72855) | ![Home](https://github.com/Sarthakag21/StrangerVC-App/assets/73837874/8fd8b53d-89e4-487d-a8e7-de2646ded49d) |
